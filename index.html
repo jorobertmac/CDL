@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CDL Practice Tests</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>CDL Practice Tests</h1>
+      <p class="subtitle">Choose your categories and tests to begin</p>
+    </header>
+
+    <!-- ========== SELECTION SCREEN ========== -->
+    <section id="selection-screen" class="screen active">
+      <div class="card">
+        <h2>1. Select Categories</h2>
+        <div id="category-list" class="checkbox-list"></div>
+      </div>
+
+      <div class="card">
+        <h2>2. Select Practice Tests</h2>
+        <p class="hint">Select one or more categories first</p>
+        <div id="test-list" class="checkbox-list">
+          <p class="empty-state">No categories selected yet.</p>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>3. Options</h2>
+        <label class="option-row">
+          <input type="checkbox" id="randomize" checked />
+          <span>Randomize question order</span>
+        </label>
+        <label class="option-row">
+          <input type="radio" name="feedback" value="immediate" checked />
+          <span>Show correct / incorrect immediately</span>
+        </label>
+        <label class="option-row">
+          <input type="radio" name="feedback" value="end" />
+          <span>Show answers only at the end</span>
+        </label>
+      </div>
+
+      <button id="start-btn" class="btn btn-primary" disabled>
+        Start Practice Test
+      </button>
+    </section>
+
+    <!-- ========== QUIZ SCREEN ========== -->
+    <section id="quiz-screen" class="screen">
+      <div class="quiz-header">
+        <div class="progress-info">
+          <span id="progress-text">Question 1 of 10</span>
+          <div class="progress-bar">
+            <div id="progress-fill" class="progress-fill"></div>
+          </div>
+        </div>
+        <button id="quit-btn" class="btn btn-text">Quit</button>
+      </div>
+
+      <div class="card question-card">
+        <p id="question-text" class="question-text"></p>
+        <div id="options-list" class="options-list"></div>
+        <div id="feedback-box" class="feedback-box hidden"></div>
+      </div>
+
+      <div class="quiz-nav">
+        <button id="next-btn" class="btn btn-primary" disabled>Next</button>
+      </div>
+    </section>
+
+    <!-- ========== RESULTS SCREEN ========== -->
+    <section id="results-screen" class="screen">
+      <div class="card results-summary">
+        <h2>Test Complete</h2>
+        <div class="score-circle">
+          <span id="score-percent">0%</span>
+        </div>
+        <p id="score-detail" class="score-detail"></p>
+        <button id="restart-btn" class="btn btn-primary">Take Another Test</button>
+      </div>
+
+      <div class="card">
+        <h2>Review</h2>
+        <div id="review-list" class="review-list"></div>
+      </div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
