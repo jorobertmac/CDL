@@ -2073,688 +2073,688 @@
       "description": "Practice tests for the Tanker endorsement",
       "tests": [
         {
-          "id": "tanker-1",
-          "name": "Practice Test 1",
-          "questions": [
-            {
-              "id": 1,
-              "question": "Hauling liquids in tankers requires special care for two reasons. One reason is the _____ center of gravity that tankers have.",
-              "options": [
-                "Flat",
-                "Wide",
-                "High"
-              ],
-              "correctIndex": 2,
-              "explanation": "Hauling liquids in tanks requires special skills because of the high center of gravity and liquid movement."
-            },
-            {
-              "id": 2,
-              "question": "You are driving a tank truck and the front wheels begin to skid. Which of these is most likely to occur?",
-              "options": [
-                "You will continue in a straight line and keep moving forward no matter how much you steer",
-                "Liquid surge will pull the tank from the truck",
-                "The truck will roll over"
-              ],
-              "correctIndex": 0,
-              "explanation": "In a front-wheel skid, the front end tends to go in a straight line regardless of how much you turn the steering wheel."
-            },
-            {
-              "id": 3,
-              "question": "How far back does a helper stand when pumping or unloading liquids from a tanker?",
-              "options": [
-                "15 feet",
-                "20 feet",
-                "25 feet"
-              ],
-              "correctIndex": 2,
-              "explanation": "The person watching the loading or unloading must: be alert, have a clear view of the cargo tank, be within 25 feet of the tank, know of the hazards of the materials involved, know the procedures to follow in an emergency, and be authorized to move the cargo tank and able to do so."
-            },
-            {
-              "id": 4,
-              "question": "Outage means:",
-              "options": [
-                "Liquid weight",
-                "How fast the tanks drain",
-                "Allowance for expansion of liquid"
-              ],
-              "correctIndex": 2,
-              "explanation": "Liquids expand as they warm and you must leave room for the expanding liquid. This is called \"outage.\""
-            },
-            {
-              "id": 5,
-              "question": "Side to side surge can cause:",
-              "options": [
-                "Suspension system failure",
-                "Over speeding",
-                "Roll over"
-              ],
-              "correctIndex": 2,
-              "explanation": "Side-to-side surge can cause a roll over."
-            },
-            {
-              "id": 6,
-              "question": "You need to be extremely cautious when driving smooth bore tankers. This is especially true when you are:",
-              "options": [
-                "Starting or stopping",
-                "Loading or unloading",
-                "Hauling milk or other food products"
-              ],
-              "correctIndex": 0,
-              "explanation": "Un-baffled liquid tankers (sometimes called \"smooth bore\" tanks) have nothing inside to slow down the flow of the liquid. Therefore, forward-and back surge is very strong."
-            },
-            {
-              "id": 7,
-              "question": "Liquid in a tank with baffles can have what kind of surge?",
-              "options": [
-                "Side to side",
-                "Top to bottom",
-                "Front to back"
-              ],
-              "correctIndex": 0,
-              "explanation": "The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over."
-            },
-            {
-              "id": 8,
-              "question": "When your cargo tank has baffles, what handling effect do you expect?",
-              "options": [
-                "There will be less side to side surge than there is in tanks without baffles",
-                "There will be less front to back surge than there is in tanks without baffles",
-                "There will be slower surge than quick surge"
-              ],
-              "correctIndex": 1,
-              "explanation": "The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over."
-            },
-            {
-              "id": 9,
-              "question": "Which of these statements about stopping distance and speed is true?",
-              "options": [
-                "You need about two times as much stopping distance at 40 MPH as at 20 MPH",
-                "Wet roads can double stopping distance at any speed",
-                "All answers are true"
-              ],
-              "correctIndex": 1,
-              "explanation": "Remember that wet roads double the normal stopping distance."
-            },
-            {
-              "id": 10,
-              "question": "Which of these statements about tankers and their center of gravity is true?",
-              "options": [
-                "Much of the load's weight is carried high up off the road.",
-                "Tankers can turn over at the speed limits posted for curves.",
-                "Both of the above"
-              ],
-              "correctIndex": 2,
-              "explanation": "High center of gravity means that much of the load's weight is carried high up off the road. This makes the vehicle top-heavy and easy to roll over. Liquid tankers are especially easy to roll over. Tests have shown that tankers can turn over at the speed limits posted for curves. Take highway curves and on ramp/off ramp curves well below the posted speeds"
-            },
-            {
-              "id": 11,
-              "question": "You must have a tank vehicle (N) endorsement to drive a vehicle with",
-              "options": [
-                "individual tanks over 225 gallons or a total of at least 2,400 gallons.",
-                "individual tanks over 119 gallons or a total of at least 1,000 gallons.",
-                "individual tanks over 65 gallons or a total of at least 500 gallons."
-              ],
-              "correctIndex": 1,
-              "explanation": "A tank endorsement is required if your vehicle needs a Class A or B CDL and you want to haul a liquid or liquid gas in a tank or tanks having an individual rated capacity of more than 119 gallons and an aggregate rated capacity of 1000 gallons or more that is either permanently or temporarily attached to the vehicle or the chassis."
-            },
-            {
-              "id": 12,
-              "question": "When should you inspect a tank vehicle?",
-              "options": [
-                "Before loading it, driving it, or unloading it",
-                "Before loading it or driving it",
-                "Before driving it"
-              ],
-              "correctIndex": 0,
-              "explanation": "You should inspect a tank vehicle before loading it, driving it, or unloading it. This is to ensure that it is safe to carry out these activities and the vehicle can safely hold its liquid or gas contents."
-            },
-            {
-              "id": 13,
-              "question": "To control surge, what is the best way to brake?",
-              "options": [
-                "Keep a steady foot on the brake and don't release the brake too soon.",
-                "Brake firmly.",
-                "Brake quickly to slow down and then brake quickly again to come to a full stop."
-              ],
-              "correctIndex": 0,
-              "explanation": "Keep a steady pressure on the brakes. Do not release too soon when coming to a stop. Brake far in advance of a stop and increase your following distance."
-            },
-            {
-              "id": 14,
-              "question": "When must a tank be un-baffled?",
-              "options": [
-                "If the liquid is likely to expand a lot",
-                "If the liquid is very dense",
-                "If it has to stay very clean"
-              ],
-              "correctIndex": 2,
-              "explanation": "Un-baffled liquid tankers sometimes called \"smooth bore\" tanks have nothing inside to slow down the flow of the liquid. Un-baffled tanks are usually those that transport food products like milk. Sanitation regulations forbid the use of baffles because of the difficulty in cleaning the inside of the tank."
-            },
-            {
-              "id": 15,
-              "question": "Which of these is the most important thing to remember about emergency braking?",
-              "options": [
-                "If the wheels are skidding, you cannot control the vehicle.",
-                "Disconnecting the steering axle brakes will help keep your vehicle in a straight line.",
-                "Never do it without downshifting first."
-              ],
-              "correctIndex": 0,
-              "explanation": "If the wheels are skidding, you cannot control the vehicle."
-            },
-            {
-              "id": 16,
-              "question": "If you must make an emergency stop, brake so that",
-              "options": [
-                "you'll definitely lock the brakes.",
-                "you can use the parking brake before the brake pedal.",
-                "your vehicle will stay in a straight line."
-              ],
-              "correctIndex": 2,
-              "explanation": "You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the \"controlled braking\" method or the \"stab braking\" method."
-            },
-            {
-              "id": 17,
-              "question": "If your vehicle has any of the following equipment, what needs to work properly?",
-              "options": [
-                "Vapor recovery kits.",
-                "Grounding and bonding cables.",
-                "Emergency shut-off systems.",
-                "All of the above."
-              ],
-              "correctIndex": 3,
-              "explanation": "If your vehicle has any of the following equipment, make sure it works: vapor recovery kits, grounding and bonding cables, emergency shut-off systems, or built in fire extinguisher."
-            },
-            {
-              "id": 18,
-              "question": "If a hill or curve keeps drivers behind you from seeing the vehicle within 500 feet:",
-              "options": [
-                "the rear reflective triangle should be moved back down the road to give adequate warning",
-                "You do not need to put out reflective triangles unless the vehicle will be stopped for 30 minutes or more",
-                "The vehicles taillights should be kept on warning other drivers"
-              ],
-              "correctIndex": 0,
-              "explanation": "If line of sight view is obstructed due to hill or curve, move the rear-most triangle to a point back down the road so warning is provided up to 500 feet."
-            },
-            {
-              "id": 19,
-              "question": "When you load the small tanks of a cargo tank equipped with bulkheads, you should check your:",
-              "options": [
-                "Water content",
-                "Air to fuel ratio",
-                "Weight distribution"
-              ],
-              "correctIndex": 2,
-              "explanation": "Some liquid tanks are divided into several smaller tanks by bulkheads. When loading and unloading the smaller tanks, the driver must pay attention to weight distribution. Don't put too much weight on the front or rear of the vehicle."
-            },
-            {
-              "id": 20,
-              "question": "When you unload the smaller tanks of a tank with bulk heads, be careful to check the:",
-              "options": [
-                "Distribution of weight",
-                "Air to fuel ratio",
-                "Water content"
-              ],
-              "correctIndex": 0,
-              "explanation": "When loading and unloading the smaller tanks, the driver must pay attention to weight distribution. Don't put too much weight on the front or rear of the vehicle."
-            }
-          ]
+      "id": "tanker-1",
+      "name": "Practice Test 1",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Hauling liquids in tankers requires special care for two reasons. One reason is the _____ center of gravity that tankers have.",
+          "options": [
+            "Flat",
+            "Wide",
+            "High"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hauling liquids in tanks requires special skills because of the high center of gravity and liquid movement."
         },
         {
-          "id": "tanker-2",
-          "name": "Practice Test 2",
-          "questions": [
-            {
-              "id": 1,
-              "question": "How would you expect a truck with a cargo tank that has baffles to handle on the road?",
-              "options": [
-                "The truck will seem heavier than it really is",
-                "There will be less front to back surge than there is in a tanker without baffles",
-                "The truck will handle the same as a tanker without baffles"
-              ],
-              "correctIndex": 1,
-              "explanation": "Baffled liquid tanks have bulkheads in them with holes that let the liquid flow through. The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over."
-            },
-            {
-              "id": 2,
-              "question": "Separations between compartments inside tanks that have openings or holes in them are called?",
-              "options": [
-                "Bulkheads",
-                "Baffles",
-                "Barriers",
-                "Pancakes"
-              ],
-              "correctIndex": 1,
-              "explanation": "Baffled liquid tanks have bulkheads in them with holes that let the liquid flow through. The baffles help to control the forward and backward liquid surge."
-            },
-            {
-              "id": 3,
-              "question": "An emergency forces you to stop your tanker quickly or crash. You should:",
-              "options": [
-                "Lock the brakes with the pedal and hold it there",
-                "Use only the emergency brakes",
-                "Use controlled or stab braking"
-              ],
-              "correctIndex": 2,
-              "explanation": "You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the \"controlled braking\" method or the \"stab braking\" method."
-            },
-            {
-              "id": 4,
-              "question": "The best way to take a curve with a tanker is to slow to a safe speed before entering the curve, then _____ as you go through it.",
-              "options": [
-                "Accelerate slightly",
-                "Brake lightly",
-                "Downshift twice"
-              ],
-              "correctIndex": 0,
-              "explanation": "Slow down before curves, then accelerate slightly through the curve. The posted speed for a curve may be too fast for a tank vehicle."
-            },
-            {
-              "id": 5,
-              "question": "When loading a tanker that has 3 or 4 valves at the bottom of the tanker, you should have the valves?",
-              "options": [
-                "Open",
-                "Adjusted",
-                "Closed"
-              ],
-              "correctIndex": 2,
-              "explanation": "Never drive or load a tank vehicle with open valves or manhole covers."
-            },
-            {
-              "id": 6,
-              "question": "Outage depends on",
-              "options": [
-                "the type of liquid.",
-                "the amount of liquid.",
-                "the temperatures that your vehicle will be subjected to."
-              ],
-              "correctIndex": 0,
-              "explanation": "Since different liquids expand by different amounts, they require different amounts of outage. You must know the outage requirement when hauling liquids in bulk."
-            },
-            {
-              "id": 7,
-              "question": "If you steer quickly while braking, your tanker may",
-              "options": [
-                "roll over.",
-                "not slow down.",
-                "skid."
-              ],
-              "correctIndex": 0,
-              "explanation": "Because of the high center of gravity and the surge of the liquid, you must start, slow down, and stop very smoothly. Also, make smooth turns and lane changes."
-            },
-            {
-              "id": 8,
-              "question": "You may not be able to fill the tanks completely because",
-              "options": [
-                "the liquid may expand in transit.",
-                "a full load of a dense liquid may exceed the legal weight limit.",
-                "both of the above are true."
-              ],
-              "correctIndex": 2,
-              "explanation": "A full tank of dense liquid (such as some acids) may exceed legal weight limits. For that reason, you may often only partially fill tanks with heavy liquids. The amount of liquid to load into a tank depends on: the amount the liquid will expand in transit, the weight of the liquid, and the legal weight limits."
-            },
-            {
-              "id": 9,
-              "question": "What should you do if you get stuck on the railroad tracks?",
-              "options": [
-                "Get out of your vehicle and away from the tracks.",
-                "Stay in your vehicle.",
-                "Scream for help."
-              ],
-              "correctIndex": 0,
-              "explanation": "If for any reason you get stuck on the tracks, get out of the vehicle and away from the tracks. Check signposts or signal housing at the crossing for emergency notification information. Call 911 or another emergency number. Give the location of the crossing using all identifiable landmarks, especially the DOT number, if posted."
-            },
-            {
-              "id": 10,
-              "question": "A vehicle placarded for hazardous materials must have placards on ____ sides.",
-              "options": [
-                "four",
-                "two",
-                "three"
-              ],
-              "correctIndex": 0,
-              "explanation": "You placard your vehicle to warn everyone around you that you are transporting hazardous materials. Therefore, you must have placards on all four sides of your vehicle."
-            },
-            {
-              "id": 11,
-              "question": "How can you start moving without rolling backward?",
-              "options": [
-                "Engage the clutch before removing your foot from the brake.",
-                "Apply the trailer brake hand valve.",
-                "Set the parking brake whenever necessary.",
-                "Do all of the above."
-              ],
-              "correctIndex": 3,
-              "explanation": "Don't roll back when you start. You may hit someone behind you. If you have a manual transmission vehicle, partly engage the clutch before you take your right foot off the brake. Put on the parking brake whenever necessary to keep from rolling back. Release the parking brake only when you have applied enough engine power to keep from rolling back."
-            },
-            {
-              "id": 12,
-              "question": "You should know the outage needed for the liquids you carry because?",
-              "options": [
-                "Some of the heaviest liquids do not need any",
-                "Tank baffles are not always legal with outage",
-                "Some liquids expand more than others when they get warm"
-              ],
-              "correctIndex": 2,
-              "explanation": "Liquids expand as they warm and you must leave room for the expanding liquid. This is called \"outage.\" Since different liquids expand by different amounts, they require different amounts of outage."
-            },
-            {
-              "id": 13,
-              "question": "You are driving on a clear night, you must dim your headlights from high to low, and should adjust your speed so you can stop within:",
-              "options": [
-                "The distance you will travel in the next 15 seconds",
-                "The distance you can see ahead",
-                "The length of your vehicle",
-                "The length of a football field"
-              ],
-              "correctIndex": 1,
-              "explanation": "You should always be able to stop within the distance you can see ahead. Fog, rain, or other conditions may require that you slowdown to be able to stop in the distance you can see. At night, you can't see as far with low beams as you can with high beams. When you must use low beams, slow down."
-            },
-            {
-              "id": 14,
-              "question": "Empty trucks:",
-              "options": [
-                "Stop quicker when you use only the emergency or parking brake",
-                "Have better traction when stopping than full ones",
-                "May require longer stopping distances than full ones"
-              ],
-              "correctIndex": 2,
-              "explanation": "Empty tank vehicles may take longer to stop than full ones."
-            },
-            {
-              "id": 15,
-              "question": "Baffles in liquid cargo tanks do not usually prevent the movement of surge from:",
-              "options": [
-                "Top to bottom",
-                "Side to side",
-                "Front to back"
-              ],
-              "correctIndex": 1,
-              "explanation": "Baffles slow front to back surge in tankers but have little effect on side to side surge."
-            },
-            {
-              "id": 16,
-              "question": "Liquid tight separations between compartments inside tanks are called:",
-              "options": [
-                "Bulkheads",
-                "Baffles",
-                "Barriers"
-              ],
-              "correctIndex": 0,
-              "explanation": "Some liquid tanks are divided into several smaller tanks by bulkheads."
-            },
-            {
-              "id": 17,
-              "question": "The movement of the liquid in partially filled tanks is called",
-              "options": [
-                "splashing",
-                "waves",
-                "surging"
-              ],
-              "correctIndex": 2,
-              "explanation": "Liquid surge results from movement of the liquid in partially filled tanks. This movement can have bad effects on handling. When the wave hits the end or sides of the tank, it tends to push the truck in the direction the wave is moving."
-            },
-            {
-              "id": 18,
-              "question": "A tank endorsement is required for certain vehicles that transport",
-              "options": [
-                "liquids or gases.",
-                "passengers.",
-                "hazardous materials."
-              ],
-              "correctIndex": 0,
-              "explanation": "A tank endorsement is required for certain vehicles that transport liquids or gases. The liquid or gas does not have to be a hazardous material."
-            },
-            {
-              "id": 19,
-              "question": "When loading a tank with bulkheads, don't put too much weight on ________ of the vehicle.",
-              "options": [
-                "the front or the rear",
-                "the front",
-                "the rear"
-              ],
-              "correctIndex": 0,
-              "explanation": "Don't put too much weight on the front or rear of the vehicle."
-            },
-            {
-              "id": 20,
-              "question": "On a long or steep downgrade, once you have reached your \"safe\" speed, brake until you are traveling",
-              "options": [
-                "15 mph slower.",
-                "10 mph slower.",
-                "5 mph slower."
-              ],
-              "correctIndex": 2,
-              "explanation": "The use of brakes on a long and/or steep downgrade is only a supplement to the braking effect of the engine. Once the vehicle is in the proper low gear, the following are the proper braking techniques: apply the brakes just hard enough to feel a definite slowdown, when your speed has been reduced to approximately five mph below your \"safe\" speed then release the brakes, when your speed has increased to your \"safe\" speed, repeat."
-            }
-          ]
+          "id": 2,
+          "question": "You are driving a tank truck and the front wheels begin to skid. Which of these is most likely to occur?",
+          "options": [
+            "You will continue in a straight line and keep moving forward no matter how much you steer",
+            "Liquid surge will pull the tank from the truck",
+            "The truck will roll over"
+          ],
+          "correctIndex": 0,
+          "explanation": "In a front-wheel skid, the front end tends to go in a straight line regardless of how much you turn the steering wheel."
         },
         {
-          "id": "tanker-3",
-          "name": "Practice Test 3",
-          "questions": [
-            {
-              "id": 1,
-              "question": "Manhole covers should be",
-              "options": [
-                "left partially open to prevent a buildup of fumes.",
-                "opened and reclosed before you drive the vehicle.",
-                "closed before you drive the vehicle."
-              ],
-              "correctIndex": 2,
-              "explanation": "Never drive a tank vehicle with open valves or manhole covers."
-            },
-            {
-              "id": 2,
-              "question": "If you do not have an automatic tank drain, when should you drain your air tanks?",
-              "options": [
-                "After every four hours of service",
-                "Once a week",
-                "At the end of each working day"
-              ],
-              "correctIndex": 2,
-              "explanation": "If your vehicle does not have automatic air tank drains, drain your air tanks at the end of each working day to remove moisture and oil. Otherwise, the brakes could fail."
-            },
-            {
-              "id": 3,
-              "question": "Exactly how should you inspect your tank vehicle?",
-              "options": [
-                "Do it the same way that you inspected other tank vehicles before.",
-                "Read the vehicle's manual to learn how to do it.",
-                "Ask a fellow driver how to do it."
-              ],
-              "correctIndex": 1,
-              "explanation": "Tank vehicles have special items that you need to check. Tank vehicles come in many types and sizes. You need to check the vehicle's operator manual to make sure you know how to inspect your tank vehicle."
-            },
-            {
-              "id": 4,
-              "question": "A smooth bore tank is also known as",
-              "options": [
-                "a tank made of aluminum.",
-                "a liquid tank with baffles.",
-                "an un-baffled liquid tank."
-              ],
-              "correctIndex": 2,
-              "explanation": "Un-baffled liquid tankers also called smooth bore\" tanks have nothing inside to slow down the flow of the liquid."
-            },
-            {
-              "id": 5,
-              "question": "Liquid surge is especially dangerous",
-              "options": [
-                "on narrow city streets.",
-                "on hills.",
-                "on slippery roads."
-              ],
-              "correctIndex": 2,
-              "explanation": "If the truck is on a slippery surface such as ice, the wave can shove a stopped truck out into an intersection."
-            },
-            {
-              "id": 6,
-              "question": "Which of these statements about emergency steering and tankers is true?",
-              "options": [
-                "A tanker is easier to counter steer than most vehicles",
-                "When making a quick steering movement, do not apply the brakes",
-                "You should wrap your thumbs around the steering wheel before starting a quick steering movement"
-              ],
-              "correctIndex": 1,
-              "explanation": "If you must make a quick steering movement, applying the brakes would cause liquid surge increasing the chance of a roll over."
-            },
-            {
-              "id": 7,
-              "question": "You should be extremely cautious when driving smooth bore tankers, especially when you are:",
-              "options": [
-                "Going up or down a hill",
-                "Starting or stopping",
-                "Driving against the wind"
-              ],
-              "correctIndex": 1,
-              "explanation": "Be extremely cautious in driving smooth bore tanks, especially when starting and stopping."
-            },
-            {
-              "id": 8,
-              "question": "If you drive a tank vehicle that you know is leaking, you may",
-              "options": [
-                "receive a citation and be prevented from further driving.",
-                "receive a citation.",
-                "receive a pay cut."
-              ],
-              "correctIndex": 0,
-              "explanation": "Don't carry liquids or gases in a leaking tank. To do so is a crime. You will be cited and prevented from driving further. You may also be liable for the clean-up of any spill."
-            },
-            {
-              "id": 9,
-              "question": "If your vehicle is placarded, you must stop _______ feet before the nearest rail at a railroad crossing.",
-              "options": [
-                "15 to 50",
-                "10 to 35",
-                "5 to 20"
-              ],
-              "correctIndex": 0,
-              "explanation": "Stop before a railroad crossing if your vehicle: Is placarded, carries any amount of chlorine, has cargo tanks loaded or empty used for hazardous materials. You must stop 15 to 50 feet before the nearest rail. Proceed only when you are sure no train is coming, and you can clear the tracks without stopping. Don't shift gears while crossing the tracks."
-            },
-            {
-              "id": 10,
-              "question": "To correct a drive-wheel braking skid, you should",
-              "options": [
-                "brake harder.",
-                "brake harder, turn quickly, and counter-steer.",
-                "stop braking, turn quickly, and counter-steer."
-              ],
-              "correctIndex": 2,
-              "explanation": "Do the following to correct a drive-wheel braking skid: stop braking allowing the rear wheels roll again and keep the rear wheels from sliding, and counter-steer. As a vehicle turns back on course, it tends to keep on turning, unless you turn the steering wheel quickly the other way, you may find yourself skidding in the opposite direction."
-            },
-            {
-              "id": 11,
-              "question": "When pre-tripping your tanker you should check for?",
-              "options": [
-                "Leaks",
-                "Joints",
-                "Barriers"
-              ],
-              "correctIndex": 0,
-              "explanation": "On all tank vehicles, the most important item to check for is leaks. Check under and around the vehicle for signs of any leaking. Don't carry liquids or gases in a leaking tank."
-            },
-            {
-              "id": 12,
-              "question": "What does liquid surge do to the handling of a tanker?",
-              "options": [
-                "Surge raises the wind drag of the truck",
-                "Surge can move the truck in the direction the liquid waves move",
-                "Surge lets you turn corners tighter"
-              ],
-              "correctIndex": 1,
-              "explanation": "Liquid surge results from movement of the liquid in partially filled tanks. This movement can have bad effects on handling. When the wave hits the end of the tank, it tends to push the truck in the direction the wave is moving."
-            },
-            {
-              "id": 13,
-              "question": "When hauling 2 tankers, where should the weight be carried?",
-              "options": [
-                "To the front",
-                "In the back",
-                "In the middle"
-              ],
-              "correctIndex": 0,
-              "explanation": "For the safest handling on the road, the more heavily loaded semitrailer should be in first position behind the tractor. The lighter trailer should be in the rear."
-            },
-            {
-              "id": 14,
-              "question": "You should know that your brakes are fading when:",
-              "options": [
-                "You must push harder on the brake pedal to control your speed on a downgrade.",
-                "The brake feels spongy when pressure is applied.",
-                "Pressure on the brake pedal is released and speed increases."
-              ],
-              "correctIndex": 0,
-              "explanation": "Increasing application pressure to hold the same speed means the brakes are fading."
-            },
-            {
-              "id": 15,
-              "question": "The amount of liquid to load into a tank depends on:",
-              "options": [
-                "The amount the liquid will expand in transit",
-                "The legal weight limits",
-                "All answers are true",
-                "No answers are true"
-              ],
-              "correctIndex": 2,
-              "explanation": "The amount of liquid to load into a tank depends on: the amount the liquid will expand in transit, the weight of the liquid, and legal weight limits."
-            },
-            {
-              "id": 16,
-              "question": "Which of these statements about managing space to the sides is true?",
-              "options": [
-                "Strong winds make it easy to stay in your lane.",
-                "You should avoid traveling next to others whenever possible.",
-                "Always keep your vehicle to the right side of your lane."
-              ],
-              "correctIndex": 1,
-              "explanation": "Commercial vehicles are often wide and take up most of a lane. Safe drivers will manage what little space they have. You can do this by keeping your vehicle centered in your lane and avoid driving alongside others."
-            },
-            {
-              "id": 17,
-              "question": "Hauling liquids in tank vehicles requires special care for two reasons. One reason is:",
-              "options": [
-                "Liquid movement",
-                "Extreme weight",
-                "Uneven expansion"
-              ],
-              "correctIndex": 0,
-              "explanation": "Hauling liquids in tanks requires special skills because of the high center of gravity and liquid movement."
-            },
-            {
-              "id": 18,
-              "question": "Loaded tankers are said to have a high center of gravity. What does this mean?",
-              "options": [
-                "Much of the tanker's weight is low, toward the ground.",
-                "Much of the tanker's weight is high up off the ground.",
-                "The top of the tanker is far away from the Earth's gravity."
-              ],
-              "correctIndex": 1,
-              "explanation": "High center of gravity means that much of the load's weight is carried high up off the road. This makes the vehicle top-heavy and easy to roll over. Tests have shown that tankers can turn over at the speed limits posted for curves."
-            },
-            {
-              "id": 19,
-              "question": "A tanker has lost its brakes. When should the driver use a truck escape ramp?",
-              "options": [
-                "Only if the tank has baffles",
-                "Always",
-                "Never"
-              ],
-              "correctIndex": 1,
-              "explanation": "Any driver who loses brakes going downhill should use an escape ramp if it's available. If you don't use it, your chances of having a serious crash may be much greater."
-            },
-            {
-              "id": 20,
-              "question": "When hauling hazardous materials, you must check any dual tires",
-              "options": [
-                "every 5 hours",
-                "every week",
-                "at the start of each trip and each time you stop."
-              ],
-              "correctIndex": 2,
-              "explanation": "If you have a placarded trailer with dual tires, you should check the tires at the start of each trip and each time that you stop for any reason, whether to rest or to refuel. Use a tire pressure gauge to get an accurate reading."
-            }
-          ]
+          "id": 3,
+          "question": "How far back does a helper stand when pumping or unloading liquids from a tanker?",
+          "options": [
+            "15 feet",
+            "20 feet",
+            "25 feet"
+          ],
+          "correctIndex": 2,
+          "explanation": "The person watching the loading or unloading must: be alert, have a clear view of the cargo tank, be within 25 feet of the tank, know of the hazards of the materials involved, know the procedures to follow in an emergency, and be authorized to move the cargo tank and able to do so."
+        },
+        {
+          "id": 4,
+          "question": "Outage means:",
+          "options": [
+            "Liquid weight",
+            "How fast the tanks drain",
+            "Allowance for expansion of liquid"
+          ],
+          "correctIndex": 2,
+          "explanation": "Liquids expand as they warm and you must leave room for the expanding liquid. This is called \"outage.\""
+        },
+        {
+          "id": 5,
+          "question": "Side to side surge can cause:",
+          "options": [
+            "Suspension system failure",
+            "Over speeding",
+            "Roll over"
+          ],
+          "correctIndex": 2,
+          "explanation": "Side-to-side surge can cause a roll over."
+        },
+        {
+          "id": 6,
+          "question": "You need to be extremely cautious when driving smooth bore tankers. This is especially true when you are:",
+          "options": [
+            "Starting or stopping",
+            "Loading or unloading",
+            "Hauling milk or other food products"
+          ],
+          "correctIndex": 0,
+          "explanation": "Un-baffled liquid tankers (sometimes called \"smooth bore\" tanks) have nothing inside to slow down the flow of the liquid. Therefore, forward-and back surge is very strong."
+        },
+        {
+          "id": 7,
+          "question": "Liquid in a tank with baffles can have what kind of surge?",
+          "options": [
+            "Side to side",
+            "Top to bottom",
+            "Front to back"
+          ],
+          "correctIndex": 0,
+          "explanation": "The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over."
+        },
+        {
+          "id": 8,
+          "question": "When your cargo tank has baffles, what handling effect do you expect?",
+          "options": [
+            "There will be less side to side surge than there is in tanks without baffles",
+            "There will be less front to back surge than there is in tanks without baffles",
+            "There will be slower surge than quick surge"
+          ],
+          "correctIndex": 1,
+          "explanation": "The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over."
+        },
+        {
+          "id": 9,
+          "question": "Which of these statements about stopping distance and speed is true?",
+          "options": [
+            "You need about two times as much stopping distance at 40 MPH as at 20 MPH",
+            "Wet roads can double stopping distance at any speed",
+            "All answers are true"
+          ],
+          "correctIndex": 1,
+          "explanation": "Remember that wet roads double the normal stopping distance."
+        },
+        {
+          "id": 10,
+          "question": "Which of these statements about tankers and their center of gravity is true?",
+          "options": [
+            "Much of the load's weight is carried high up off the road.",
+            "Tankers can turn over at the speed limits posted for curves.",
+            "Both of the above"
+          ],
+          "correctIndex": 2,
+          "explanation": "High center of gravity means that much of the load's weight is carried high up off the road. This makes the vehicle top-heavy and easy to roll over. Liquid tankers are especially easy to roll over. Tests have shown that tankers can turn over at the speed limits posted for curves. Take highway curves and on ramp/off ramp curves well below the posted speeds"
+        },
+        {
+          "id": 11,
+          "question": "You must have a tank vehicle (N) endorsement to drive a vehicle with",
+          "options": [
+            "individual tanks over 225 gallons or a total of at least 2,400 gallons.",
+            "individual tanks over 119 gallons or a total of at least 1,000 gallons.",
+            "individual tanks over 65 gallons or a total of at least 500 gallons."
+          ],
+          "correctIndex": 1,
+          "explanation": "A tank endorsement is required if your vehicle needs a Class A or B CDL and you want to haul a liquid or liquid gas in a tank or tanks having an individual rated capacity of more than 119 gallons and an aggregate rated capacity of 1000 gallons or more that is either permanently or temporarily attached to the vehicle or the chassis."
+        },
+        {
+          "id": 12,
+          "question": "When should you inspect a tank vehicle?",
+          "options": [
+            "Before loading it, driving it, or unloading it",
+            "Before loading it or driving it",
+            "Before driving it"
+          ],
+          "correctIndex": 0,
+          "explanation": "You should inspect a tank vehicle before loading it, driving it, or unloading it. This is to ensure that it is safe to carry out these activities and the vehicle can safely hold its liquid or gas contents."
+        },
+        {
+          "id": 13,
+          "question": "To control surge, what is the best way to brake?",
+          "options": [
+            "Keep a steady foot on the brake and don't release the brake too soon.",
+            "Brake firmly.",
+            "Brake quickly to slow down and then brake quickly again to come to a full stop."
+          ],
+          "correctIndex": 0,
+          "explanation": "Keep a steady pressure on the brakes. Do not release too soon when coming to a stop. Brake far in advance of a stop and increase your following distance."
+        },
+        {
+          "id": 14,
+          "question": "When must a tank be un-baffled?",
+          "options": [
+            "If the liquid is likely to expand a lot",
+            "If the liquid is very dense",
+            "If it has to stay very clean"
+          ],
+          "correctIndex": 2,
+          "explanation": "Un-baffled liquid tankers sometimes called \"smooth bore\" tanks have nothing inside to slow down the flow of the liquid. Un-baffled tanks are usually those that transport food products like milk. Sanitation regulations forbid the use of baffles because of the difficulty in cleaning the inside of the tank."
+        },
+        {
+          "id": 15,
+          "question": "Which of these is the most important thing to remember about emergency braking?",
+          "options": [
+            "If the wheels are skidding, you cannot control the vehicle.",
+            "Disconnecting the steering axle brakes will help keep your vehicle in a straight line.",
+            "Never do it without downshifting first."
+          ],
+          "correctIndex": 0,
+          "explanation": "If the wheels are skidding, you cannot control the vehicle."
+        },
+        {
+          "id": 16,
+          "question": "If you must make an emergency stop, brake so that",
+          "options": [
+            "you'll definitely lock the brakes.",
+            "you can use the parking brake before the brake pedal.",
+            "your vehicle will stay in a straight line."
+          ],
+          "correctIndex": 2,
+          "explanation": "You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the \"controlled braking\" method or the \"stab braking\" method."
+        },
+        {
+          "id": 17,
+          "question": "If your vehicle has any of the following equipment, what needs to work properly?",
+          "options": [
+            "Vapor recovery kits.",
+            "Grounding and bonding cables.",
+            "Emergency shut-off systems.",
+            "All of the above."
+          ],
+          "correctIndex": 3,
+          "explanation": "If your vehicle has any of the following equipment, make sure it works: vapor recovery kits, grounding and bonding cables, emergency shut-off systems, or built in fire extinguisher."
+        },
+        {
+          "id": 18,
+          "question": "If a hill or curve keeps drivers behind you from seeing the vehicle within 500 feet:",
+          "options": [
+            "the rear reflective triangle should be moved back down the road to give adequate warning",
+            "You do not need to put out reflective triangles unless the vehicle will be stopped for 30 minutes or more",
+            "The vehicles taillights should be kept on warning other drivers"
+          ],
+          "correctIndex": 0,
+          "explanation": "If line of sight view is obstructed due to hill or curve, move the rear-most triangle to a point back down the road so warning is provided up to 500 feet."
+        },
+        {
+          "id": 19,
+          "question": "When you load the small tanks of a cargo tank equipped with bulkheads, you should check your:",
+          "options": [
+            "Water content",
+            "Air to fuel ratio",
+            "Weight distribution"
+          ],
+          "correctIndex": 2,
+          "explanation": "Some liquid tanks are divided into several smaller tanks by bulkheads. When loading and unloading the smaller tanks, the driver must pay attention to weight distribution. Don't put too much weight on the front or rear of the vehicle."
+        },
+        {
+          "id": 20,
+          "question": "When you unload the smaller tanks of a tank with bulk heads, be careful to check the:",
+          "options": [
+            "Distribution of weight",
+            "Air to fuel ratio",
+            "Water content"
+          ],
+          "correctIndex": 0,
+          "explanation": "When loading and unloading the smaller tanks, the driver must pay attention to weight distribution. Don't put too much weight on the front or rear of the vehicle."
         }
+      ]
+    },
+    {
+      "id": "tanker-2",
+      "name": "Practice Test 2",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How would you expect a truck with a cargo tank that has baffles to handle on the road?",
+          "options": [
+            "The truck will seem heavier than it really is",
+            "There will be less front to back surge than there is in a tanker without baffles",
+            "The truck will handle the same as a tanker without baffles"
+          ],
+          "correctIndex": 1,
+          "explanation": "Baffled liquid tanks have bulkheads in them with holes that let the liquid flow through. The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over."
+        },
+        {
+          "id": 2,
+          "question": "Separations between compartments inside tanks that have openings or holes in them are called?",
+          "options": [
+            "Bulkheads",
+            "Baffles",
+            "Barriers",
+            "Pancakes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Baffled liquid tanks have bulkheads in them with holes that let the liquid flow through. The baffles help to control the forward and backward liquid surge."
+        },
+        {
+          "id": 3,
+          "question": "An emergency forces you to stop your tanker quickly or crash. You should:",
+          "options": [
+            "Lock the brakes with the pedal and hold it there",
+            "Use only the emergency brakes",
+            "Use controlled or stab braking"
+          ],
+          "correctIndex": 2,
+          "explanation": "You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the \"controlled braking\" method or the \"stab braking\" method."
+        },
+        {
+          "id": 4,
+          "question": "The best way to take a curve with a tanker is to slow to a safe speed before entering the curve, then _____ as you go through it.",
+          "options": [
+            "Accelerate slightly",
+            "Brake lightly",
+            "Downshift twice"
+          ],
+          "correctIndex": 0,
+          "explanation": "Slow down before curves, then accelerate slightly through the curve. The posted speed for a curve may be too fast for a tank vehicle."
+        },
+        {
+          "id": 5,
+          "question": "When loading a tanker that has 3 or 4 valves at the bottom of the tanker, you should have the valves?",
+          "options": [
+            "Open",
+            "Adjusted",
+            "Closed"
+          ],
+          "correctIndex": 2,
+          "explanation": "Never drive or load a tank vehicle with open valves or manhole covers."
+        },
+        {
+          "id": 6,
+          "question": "Outage depends on",
+          "options": [
+            "the type of liquid.",
+            "the amount of liquid.",
+            "the temperatures that your vehicle will be subjected to."
+          ],
+          "correctIndex": 0,
+          "explanation": "Since different liquids expand by different amounts, they require different amounts of outage. You must know the outage requirement when hauling liquids in bulk."
+        },
+        {
+          "id": 7,
+          "question": "If you steer quickly while braking, your tanker may",
+          "options": [
+            "roll over.",
+            "not slow down.",
+            "skid."
+          ],
+          "correctIndex": 0,
+          "explanation": "Because of the high center of gravity and the surge of the liquid, you must start, slow down, and stop very smoothly. Also, make smooth turns and lane changes."
+        },
+        {
+          "id": 8,
+          "question": "You may not be able to fill the tanks completely because",
+          "options": [
+            "the liquid may expand in transit.",
+            "a full load of a dense liquid may exceed the legal weight limit.",
+            "both of the above are true."
+          ],
+          "correctIndex": 2,
+          "explanation": "A full tank of dense liquid (such as some acids) may exceed legal weight limits. For that reason, you may often only partially fill tanks with heavy liquids. The amount of liquid to load into a tank depends on: the amount the liquid will expand in transit, the weight of the liquid, and the legal weight limits."
+        },
+        {
+          "id": 9,
+          "question": "What should you do if you get stuck on the railroad tracks?",
+          "options": [
+            "Get out of your vehicle and away from the tracks.",
+            "Stay in your vehicle.",
+            "Scream for help."
+          ],
+          "correctIndex": 0,
+          "explanation": "If for any reason you get stuck on the tracks, get out of the vehicle and away from the tracks. Check signposts or signal housing at the crossing for emergency notification information. Call 911 or another emergency number. Give the location of the crossing using all identifiable landmarks, especially the DOT number, if posted."
+        },
+        {
+          "id": 10,
+          "question": "A vehicle placarded for hazardous materials must have placards on ____ sides.",
+          "options": [
+            "four",
+            "two",
+            "three"
+          ],
+          "correctIndex": 0,
+          "explanation": "You placard your vehicle to warn everyone around you that you are transporting hazardous materials. Therefore, you must have placards on all four sides of your vehicle."
+        },
+        {
+          "id": 11,
+          "question": "How can you start moving without rolling backward?",
+          "options": [
+            "Engage the clutch before removing your foot from the brake.",
+            "Apply the trailer brake hand valve.",
+            "Set the parking brake whenever necessary.",
+            "Do all of the above."
+          ],
+          "correctIndex": 3,
+          "explanation": "Don't roll back when you start. You may hit someone behind you. If you have a manual transmission vehicle, partly engage the clutch before you take your right foot off the brake. Put on the parking brake whenever necessary to keep from rolling back. Release the parking brake only when you have applied enough engine power to keep from rolling back."
+        },
+        {
+          "id": 12,
+          "question": "You should know the outage needed for the liquids you carry because?",
+          "options": [
+            "Some of the heaviest liquids do not need any",
+            "Tank baffles are not always legal with outage",
+            "Some liquids expand more than others when they get warm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Liquids expand as they warm and you must leave room for the expanding liquid. This is called \"outage.\" Since different liquids expand by different amounts, they require different amounts of outage."
+        },
+        {
+          "id": 13,
+          "question": "You are driving on a clear night, you must dim your headlights from high to low, and should adjust your speed so you can stop within:",
+          "options": [
+            "The distance you will travel in the next 15 seconds",
+            "The distance you can see ahead",
+            "The length of your vehicle",
+            "The length of a football field"
+          ],
+          "correctIndex": 1,
+          "explanation": "You should always be able to stop within the distance you can see ahead. Fog, rain, or other conditions may require that you slowdown to be able to stop in the distance you can see. At night, you can't see as far with low beams as you can with high beams. When you must use low beams, slow down."
+        },
+        {
+          "id": 14,
+          "question": "Empty trucks:",
+          "options": [
+            "Stop quicker when you use only the emergency or parking brake",
+            "Have better traction when stopping than full ones",
+            "May require longer stopping distances than full ones"
+          ],
+          "correctIndex": 2,
+          "explanation": "Empty tank vehicles may take longer to stop than full ones."
+        },
+        {
+          "id": 15,
+          "question": "Baffles in liquid cargo tanks do not usually prevent the movement of surge from:",
+          "options": [
+            "Top to bottom",
+            "Side to side",
+            "Front to back"
+          ],
+          "correctIndex": 1,
+          "explanation": "Baffles slow front to back surge in tankers but have little effect on side to side surge."
+        },
+        {
+          "id": 16,
+          "question": "Liquid tight separations between compartments inside tanks are called:",
+          "options": [
+            "Bulkheads",
+            "Baffles",
+            "Barriers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Some liquid tanks are divided into several smaller tanks by bulkheads."
+        },
+        {
+          "id": 17,
+          "question": "The movement of the liquid in partially filled tanks is called",
+          "options": [
+            "splashing",
+            "waves",
+            "surging"
+          ],
+          "correctIndex": 2,
+          "explanation": "Liquid surge results from movement of the liquid in partially filled tanks. This movement can have bad effects on handling. When the wave hits the end or sides of the tank, it tends to push the truck in the direction the wave is moving."
+        },
+        {
+          "id": 18,
+          "question": "A tank endorsement is required for certain vehicles that transport",
+          "options": [
+            "liquids or gases.",
+            "passengers.",
+            "hazardous materials."
+          ],
+          "correctIndex": 0,
+          "explanation": "A tank endorsement is required for certain vehicles that transport liquids or gases. The liquid or gas does not have to be a hazardous material."
+        },
+        {
+          "id": 19,
+          "question": "When loading a tank with bulkheads, don't put too much weight on ________ of the vehicle.",
+          "options": [
+            "the front or the rear",
+            "the front",
+            "the rear"
+          ],
+          "correctIndex": 0,
+          "explanation": "Don't put too much weight on the front or rear of the vehicle."
+        },
+        {
+          "id": 20,
+          "question": "On a long or steep downgrade, once you have reached your \"safe\" speed, brake until you are traveling",
+          "options": [
+            "15 mph slower.",
+            "10 mph slower.",
+            "5 mph slower."
+          ],
+          "correctIndex": 2,
+          "explanation": "The use of brakes on a long and/or steep downgrade is only a supplement to the braking effect of the engine. Once the vehicle is in the proper low gear, the following are the proper braking techniques: apply the brakes just hard enough to feel a definite slowdown, when your speed has been reduced to approximately five mph below your \"safe\" speed then release the brakes, when your speed has increased to your \"safe\" speed, repeat."
+        }
+      ]
+    },
+    {
+      "id": "tanker-3",
+      "name": "Practice Test 3",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Manhole covers should be",
+          "options": [
+            "left partially open to prevent a buildup of fumes.",
+            "opened and reclosed before you drive the vehicle.",
+            "closed before you drive the vehicle."
+          ],
+          "correctIndex": 2,
+          "explanation": "Never drive a tank vehicle with open valves or manhole covers."
+        },
+        {
+          "id": 2,
+          "question": "If you do not have an automatic tank drain, when should you drain your air tanks?",
+          "options": [
+            "After every four hours of service",
+            "Once a week",
+            "At the end of each working day"
+          ],
+          "correctIndex": 2,
+          "explanation": "If your vehicle does not have automatic air tank drains, drain your air tanks at the end of each working day to remove moisture and oil. Otherwise, the brakes could fail."
+        },
+        {
+          "id": 3,
+          "question": "Exactly how should you inspect your tank vehicle?",
+          "options": [
+            "Do it the same way that you inspected other tank vehicles before.",
+            "Read the vehicle's manual to learn how to do it.",
+            "Ask a fellow driver how to do it."
+          ],
+          "correctIndex": 1,
+          "explanation": "Tank vehicles have special items that you need to check. Tank vehicles come in many types and sizes. You need to check the vehicle's operator manual to make sure you know how to inspect your tank vehicle."
+        },
+        {
+          "id": 4,
+          "question": "A smooth bore tank is also known as",
+          "options": [
+            "a tank made of aluminum.",
+            "a liquid tank with baffles.",
+            "an un-baffled liquid tank."
+          ],
+          "correctIndex": 2,
+          "explanation": "Un-baffled liquid tankers also called smooth bore\" tanks have nothing inside to slow down the flow of the liquid."
+        },
+        {
+          "id": 5,
+          "question": "Liquid surge is especially dangerous",
+          "options": [
+            "on narrow city streets.",
+            "on hills.",
+            "on slippery roads."
+          ],
+          "correctIndex": 2,
+          "explanation": "If the truck is on a slippery surface such as ice, the wave can shove a stopped truck out into an intersection."
+        },
+        {
+          "id": 6,
+          "question": "Which of these statements about emergency steering and tankers is true?",
+          "options": [
+            "A tanker is easier to counter steer than most vehicles",
+            "When making a quick steering movement, do not apply the brakes",
+            "You should wrap your thumbs around the steering wheel before starting a quick steering movement"
+          ],
+          "correctIndex": 1,
+          "explanation": "If you must make a quick steering movement, applying the brakes would cause liquid surge increasing the chance of a roll over."
+        },
+        {
+          "id": 7,
+          "question": "You should be extremely cautious when driving smooth bore tankers, especially when you are:",
+          "options": [
+            "Going up or down a hill",
+            "Starting or stopping",
+            "Driving against the wind"
+          ],
+          "correctIndex": 1,
+          "explanation": "Be extremely cautious in driving smooth bore tanks, especially when starting and stopping."
+        },
+        {
+          "id": 8,
+          "question": "If you drive a tank vehicle that you know is leaking, you may",
+          "options": [
+            "receive a citation and be prevented from further driving.",
+            "receive a citation.",
+            "receive a pay cut."
+          ],
+          "correctIndex": 0,
+          "explanation": "Don't carry liquids or gases in a leaking tank. To do so is a crime. You will be cited and prevented from driving further. You may also be liable for the clean-up of any spill."
+        },
+        {
+          "id": 9,
+          "question": "If your vehicle is placarded, you must stop _______ feet before the nearest rail at a railroad crossing.",
+          "options": [
+            "15 to 50",
+            "10 to 35",
+            "5 to 20"
+          ],
+          "correctIndex": 0,
+          "explanation": "Stop before a railroad crossing if your vehicle: Is placarded, carries any amount of chlorine, has cargo tanks loaded or empty used for hazardous materials. You must stop 15 to 50 feet before the nearest rail. Proceed only when you are sure no train is coming, and you can clear the tracks without stopping. Don't shift gears while crossing the tracks."
+        },
+        {
+          "id": 10,
+          "question": "To correct a drive-wheel braking skid, you should",
+          "options": [
+            "brake harder.",
+            "brake harder, turn quickly, and counter-steer.",
+            "stop braking, turn quickly, and counter-steer."
+          ],
+          "correctIndex": 2,
+          "explanation": "Do the following to correct a drive-wheel braking skid: stop braking allowing the rear wheels roll again and keep the rear wheels from sliding, and counter-steer. As a vehicle turns back on course, it tends to keep on turning, unless you turn the steering wheel quickly the other way, you may find yourself skidding in the opposite direction."
+        },
+        {
+          "id": 11,
+          "question": "When pre-tripping your tanker you should check for?",
+          "options": [
+            "Leaks",
+            "Joints",
+            "Barriers"
+          ],
+          "correctIndex": 0,
+          "explanation": "On all tank vehicles, the most important item to check for is leaks. Check under and around the vehicle for signs of any leaking. Don't carry liquids or gases in a leaking tank."
+        },
+        {
+          "id": 12,
+          "question": "What does liquid surge do to the handling of a tanker?",
+          "options": [
+            "Surge raises the wind drag of the truck",
+            "Surge can move the truck in the direction the liquid waves move",
+            "Surge lets you turn corners tighter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Liquid surge results from movement of the liquid in partially filled tanks. This movement can have bad effects on handling. When the wave hits the end of the tank, it tends to push the truck in the direction the wave is moving."
+        },
+        {
+          "id": 13,
+          "question": "When hauling 2 tankers, where should the weight be carried?",
+          "options": [
+            "To the front",
+            "In the back",
+            "In the middle"
+          ],
+          "correctIndex": 0,
+          "explanation": "For the safest handling on the road, the more heavily loaded semitrailer should be in first position behind the tractor. The lighter trailer should be in the rear."
+        },
+        {
+          "id": 14,
+          "question": "You should know that your brakes are fading when:",
+          "options": [
+            "You must push harder on the brake pedal to control your speed on a downgrade.",
+            "The brake feels spongy when pressure is applied.",
+            "Pressure on the brake pedal is released and speed increases."
+          ],
+          "correctIndex": 0,
+          "explanation": "Increasing application pressure to hold the same speed means the brakes are fading."
+        },
+        {
+          "id": 15,
+          "question": "The amount of liquid to load into a tank depends on:",
+          "options": [
+            "The amount the liquid will expand in transit",
+            "The legal weight limits",
+            "All answers are true",
+            "No answers are true"
+          ],
+          "correctIndex": 2,
+          "explanation": "The amount of liquid to load into a tank depends on: the amount the liquid will expand in transit, the weight of the liquid, and legal weight limits."
+        },
+        {
+          "id": 16,
+          "question": "Which of these statements about managing space to the sides is true?",
+          "options": [
+            "Strong winds make it easy to stay in your lane.",
+            "You should avoid traveling next to others whenever possible.",
+            "Always keep your vehicle to the right side of your lane."
+          ],
+          "correctIndex": 1,
+          "explanation": "Commercial vehicles are often wide and take up most of a lane. Safe drivers will manage what little space they have. You can do this by keeping your vehicle centered in your lane and avoid driving alongside others."
+        },
+        {
+          "id": 17,
+          "question": "Hauling liquids in tank vehicles requires special care for two reasons. One reason is:",
+          "options": [
+            "Liquid movement",
+            "Extreme weight",
+            "Uneven expansion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hauling liquids in tanks requires special skills because of the high center of gravity and liquid movement."
+        },
+        {
+          "id": 18,
+          "question": "Loaded tankers are said to have a high center of gravity. What does this mean?",
+          "options": [
+            "Much of the tanker's weight is low, toward the ground.",
+            "Much of the tanker's weight is high up off the ground.",
+            "The top of the tanker is far away from the Earth's gravity."
+          ],
+          "correctIndex": 1,
+          "explanation": "High center of gravity means that much of the load's weight is carried high up off the road. This makes the vehicle top-heavy and easy to roll over. Tests have shown that tankers can turn over at the speed limits posted for curves."
+        },
+        {
+          "id": 19,
+          "question": "A tanker has lost its brakes. When should the driver use a truck escape ramp?",
+          "options": [
+            "Only if the tank has baffles",
+            "Always",
+            "Never"
+          ],
+          "correctIndex": 1,
+          "explanation": "Any driver who loses brakes going downhill should use an escape ramp if it's available. If you don't use it, your chances of having a serious crash may be much greater."
+        },
+        {
+          "id": 20,
+          "question": "When hauling hazardous materials, you must check any dual tires",
+          "options": [
+            "every 5 hours",
+            "every week",
+            "at the start of each trip and each time you stop."
+          ],
+          "correctIndex": 2,
+          "explanation": "If you have a placarded trailer with dual tires, you should check the tires at the start of each trip and each time that you stop for any reason, whether to rest or to refuel. Use a tire pressure gauge to get an accurate reading."
+        }
+      ]
+    }
       ]
     }
 }
