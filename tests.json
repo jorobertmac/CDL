@@ -3451,6 +3451,873 @@
           ]
         }
       ]
+    },
+    "pretrip": {
+      "name": "Pretrip",
+      "description": "Practice tests for the Pretrip endorsement",
+      "tests": [
+        {
+          "id": "pretrip-1",
+          "name": "Practice Test 1",
+          "questions": [
+            {
+              "id": 1,
+              "question": "When doing the pre-trip, you should tell the examiner each item you are checking and 2-3 things you check each item for.",
+              "options": ["A. True.", "B. False."],
+              "correctIndex": 0,
+              "explanation": "Try not to overdo the item or what you are checking it for. You only get 30 minutes to check everything on the vehicle."
+            },
+            {
+              "id": 2,
+              "question": "Should you do an overview of your vehicle as you approach it (including looking for leaks, leaning, or excessive damage)?",
+              "options": ["A. Yes", "B. No"],
+              "correctIndex": 0,
+              "explanation": "Overviews give you a chance to catch major problems early."
+            },
+            {
+              "id": 3,
+              "question": "When checking the lights at the front of the vehicle what should you check for?",
+              "options": [
+                "A. That they work.",
+                "B. That the lens covers are there, lights are securely attached, clean, and working.",
+                "C. Nothing, you do not have to check the lights."
+              ],
+              "correctIndex": 1,
+              "explanation": "All lights will need checked at the front, back and sides of the vehicle. They will need checked for covers, cleanliness, secureness, and that they work."
+            },
+            {
+              "id": 4,
+              "question": "When checking the windshield, what should you be looking for?",
+              "options": [
+                "A. That the windshield is there, not cracked or chipped.",
+                "B. That the windshield is there, not cracked or chipped, clean, the seals are in good condition, and not leaking.",
+                "C. That it is clean, and not leaking."
+              ],
+              "correctIndex": 1,
+              "explanation": "Mentioning the windshield and checking it for cracks, chips, and cleanliness is not enough. You will have to check the seals and for leaks to get it marked as checked."
+            },
+            {
+              "id": 5,
+              "question": "When opening the hood, you should check?",
+              "options": [
+                "A. The hinges, catches, and springs.",
+                "B. The important stuff is under the hood, so nothing.",
+                "C. For damage.",
+                "D. Both A and C."
+              ],
+              "correctIndex": 3,
+              "explanation": "The hood will always need checked, mainly for damage, but don't forget the hinges, catches, and springs or you might not get credit."
+            },
+            {
+              "id": 6,
+              "question": "Checking the mirrors on the outside of the vehicle you should check for?",
+              "options": [
+                "A. Properly mounted.",
+                "B. No cracks.",
+                "C. Clean.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "Don't forget you can have mirrors on the hood, and on the doors of the cab. While outside check for mounts, cracks, and cleanliness. You should also check them again when inside the vehicle to make sure they are properly adjusted."
+            },
+            {
+              "id": 7,
+              "question": "In the engine compartment there are four fluids you must check, they are?",
+              "options": [
+                "A. Windshield wiper fluid, oil, coolant, and moisture or leaks.",
+                "B. Transmission fluid, oil, coolant, and power steering fluid.",
+                "C. Moisture or leaks, oil, coolant, power steering fluid.",
+                "D. None of these."
+              ],
+              "correctIndex": 2,
+              "explanation": "It is best to check all your fluids during a pre-trip inspection, but the fluids you have to say are oil, coolant, power steering, and checking for moisture and leaks."
+            },
+            {
+              "id": 8,
+              "question": "In the engine compartment there are four major belt or gear driven components. What are they?",
+              "options": [
+                "A. Power steering pump, fuel pump, alternator, water pump.",
+                "B. Power steering pump, fuel pump, alternator, air compressor.",
+                "C. Fuel pump, alternator, air compressor, water pump.",
+                "D. Power steering pump, alternator, air compressor, and water pump."
+              ],
+              "correctIndex": 3,
+              "explanation": "It is best to check all your belt and gear driven components, but the power steering, alternator, air compressor, and water pump are all that appear on the CDL pre-trip."
+            },
+            {
+              "id": 9,
+              "question": "What should you check each of the fluids in the engine compartment for?",
+              "options": [
+                "A. Proper level.",
+                "B. Clean of debris.",
+                "C. Not leaking.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "All fluids should be at the proper level, clean, free of debris, with no leaks. You can also add proper color to this list. Some coolants are red, green and orange. Red or clear for most power steering. Oil can be difficult, it should be tan in color, but normally after use of the vehicle it gets black."
+            },
+            {
+              "id": 10,
+              "question": "What are the main components of the steering controls found in the engine compartment?",
+              "options": [
+                "A. Upper steering linkage, gearbox, tie rod ends, and tie rod.",
+                "B. Upper steering linkage, universal joints, tie rod ends, tie rod.",
+                "C. Upper steering linkage, universal joints, power steering pump, pitman arm, drag link, tie rod ends, tie rod.",
+                "D. Upper steering linkage, universal joints, pitman arm, tie rod ends, tie rod."
+              ],
+              "correctIndex": 2,
+              "explanation": "The steering linkage consists of upper steering linkage, universal joints, power steering pump, pitman arm, drag link, tie rod ends, tie rod. They will all need checked separately."
+            },
+            {
+              "id": 11,
+              "question": "What should you check the steering linkage for?",
+              "options": [
+                "A. All castle nuts are tight and secure.",
+                "B. Cotter pins in place.",
+                "C. No excessive play.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "Along with the castle nuts, cotter pins, and excessive play you can check for illegal welds and cracks."
+            },
+            {
+              "id": 12,
+              "question": "Which of the following does not get checked in the engine compartment?",
+              "options": [
+                "A. Oil level",
+                "B. Oil pressure",
+                "C. Power steering fluid",
+                "D. Coolant level"
+              ],
+              "correctIndex": 1,
+              "explanation": "Oil pressure is checked on the inside of the cab using the oil pressure gauge."
+            },
+            {
+              "id": 13,
+              "question": "Which of the following is not an engine compartment belt?",
+              "options": [
+                "A. Power steering belt.",
+                "B. Water pump belt.",
+                "C. Safety belt.",
+                "D Air compressor belt."
+              ],
+              "correctIndex": 2,
+              "explanation": "The safety belt secures the driver in the cab."
+            },
+            {
+              "id": 14,
+              "question": "The leaf springs, shocks, U-bolts, shackles, and air bags are part of what system?",
+              "options": [
+                "A. The coupling system.",
+                "B. The safety system.",
+                "C. The suspension system",
+                "D. The hydraulic system."
+              ],
+              "correctIndex": 2,
+              "explanation": "These are all components of the suspension system and will need checked independently in your pre-trip exam."
+            },
+            {
+              "id": 15,
+              "question": "Hoses in the engine compartment should be checked for?",
+              "options": [
+                "A. Cracks, frays, and tears.",
+                "B. Connections tight and secure.",
+                "C. Welds.",
+                "D. Leaks.",
+                "E. Both A and B.",
+                "F. A, B, and D."
+              ],
+              "correctIndex": 5,
+              "explanation": "Make sure the lines are connected and secure, no frays, cracks, tears, and no leaks to get hoses marked off. The trick is you need to say horses for the air compressor, power steering, water pump independently to get credit."
+            },
+            {
+              "id": 16,
+              "question": "The engine belts should be checked for?",
+              "options": [
+                "A. Excessive play.",
+                "B. Cracks, frays, and tears.",
+                "C. Overheating.",
+                "D. Both A and B."
+              ],
+              "correctIndex": 3,
+              "explanation": "Check each belt individually. There can be belts for a few different components under the hood. The excessive play of more than 3/4 of an inch."
+            },
+            {
+              "id": 17,
+              "question": "Brake lines should be checked for?",
+              "options": [
+                "A. Connections tight and secure.",
+                "B. No frays, cracks, or damage.",
+                "C. No signs of leaks.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "As with all hoses, make sure the connections are tight and secure. That there are no frays, cracks, or damage to the lines with no leaks. With an airline leaks can be found by suspicious clean spots on the hose."
+            },
+            {
+              "id": 18,
+              "question": "Air chambers are?",
+              "options": [
+                "A. Part of the braking system.",
+                "B. Where air is stored for use.",
+                "C. Not on a commercial vehicle.",
+                "D. Only used in emergencies."
+              ],
+              "correctIndex": 0,
+              "explanation": "Also called brake chambers, they are found on most commercial vehicles, and filled with air to apply the brakes."
+            },
+            {
+              "id": 19,
+              "question": "Air chambers should be checked for?",
+              "options": [
+                "A. Tight and secure.",
+                "B. Not leaking.",
+                "C. Not damaged.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "Also called brake chambers, they need to be mounted tight and secure, not excessively damaged, and not leaking."
+            },
+            {
+              "id": 20,
+              "question": "The slack adjuster is part of the braking system, what is the maximum play allowed with the brakes off?",
+              "options": [
+                "A. 1/4 of an inch.",
+                "B. 1/2 of an inch.",
+                "C. 3/4 of an inch.",
+                "D. 1 inch."
+              ],
+              "correctIndex": 3,
+              "explanation": "There should be no more than 1 inch of play in any slack adjuster on the vehicle, with the brakes off."
+            },
+            {
+              "id": 21,
+              "question": "Brake pads should be checked for?",
+              "options": [
+                "A. At least a 1/4 of an inch of life left.",
+                "B. Not worn dangerously thin.",
+                "C. Not cracked or broken.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "All answers are true. They should have at least a 1/4 inch of life left on the brake pad, since they can wear unevenly also check that they are not dangerously thin, and no cracks or breaks."
+            },
+            {
+              "id": 22,
+              "question": "Brake drums?",
+              "options": [
+                "A. Are not out of round and have no illegal welds.",
+                "B. No cracks, or illegal welds.",
+                "C. Not out of round, no illegal welds, and no cracks.",
+                "D. None of the above."
+              ],
+              "correctIndex": 2,
+              "explanation": "Make sure they are not misshapen (out of round), no illegal welds, and no cracks."
+            },
+            {
+              "id": 23,
+              "question": "Brake drums (or discs) must not have cracks longer than:",
+              "options": [
+                "A. 1/2 the width of the friction area.",
+                "B. One inch across in a straight line.",
+                "C. No cracks are allowed.",
+                "D. None of the above."
+              ],
+              "correctIndex": 0,
+              "explanation": "The area where the brake shoes touch the drum is considered the friction area, there should be no cracks 1/2 the width of that area."
+            },
+            {
+              "id": 24,
+              "question": "Tire tread depth depends on the axel. The depth should be no less than ______ for the steer axel, and _____ for any other axel.",
+              "options": [
+                "A. 1/2-inch, 1/4 inch",
+                "B. 4/32-inch, 2/32 inch",
+                "C. 1/8-inch, 1/16 inch",
+                "D. 8/32-inch, 4/32 inch."
+              ],
+              "correctIndex": 1,
+              "explanation": "All tread depth needs to be said in thirty-seconds. The front axle or steer axel must have at least 4/32, and the rest of the axles can have no less than 2/32."
+            },
+            {
+              "id": 25,
+              "question": "Retreaded tires can be on any axel.",
+              "options": ["A. True.", "B. False."],
+              "correctIndex": 1,
+              "explanation": "The front or steer axel is not allowed to have retreaded tires."
+            },
+            {
+              "id": 26,
+              "question": "Tires should be checked for?",
+              "options": [
+                "A. Cuts, cracks, and bulges.",
+                "B. Cuts, cracks, bulges, and depth.",
+                "C. Cuts, cracks, bulges, and inflation.",
+                "D. Cuts, cracks, bulges, depth, and inflation."
+              ],
+              "correctIndex": 3,
+              "explanation": "Tires should not have any cuts, cracks, or bulges. You will need to make sure the tire pressure is up to manufacturer specifications, and that it has the proper tread depth."
+            },
+            {
+              "id": 27,
+              "question": "You should check rims for dents, cracks, illegal welds, valve stem, and that they are tight and secure.",
+              "options": ["A. True.", "B. False."],
+              "correctIndex": 0,
+              "explanation": "Rims should not have dents, cracks, illegal welds. This is a great time to mention your valve stem since it comes through the rim, and the rims need to be tight and secure."
+            },
+            {
+              "id": 28,
+              "question": "All rims have a spacer.",
+              "options": ["A. True.", "B. False."],
+              "correctIndex": 1,
+              "explanation": "The front axle does not have a spacer because it does not have dual tires on each side. Also bud rims are made so that there is no need for a spacer. Only on Dayton setups would you have a spacer."
+            },
+            {
+              "id": 29,
+              "question": "Lug nuts (that hold the rim to the axle) should be checked for?",
+              "options": [
+                "A. Tight and secure.",
+                "B. No worn or stripped threads.",
+                "C. No rust marks (from the lug nuts to the outside of rim).",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "Lug nuts need to be tight and secure, no stripped or worn threads. The rust marks will start at the best of the lug nut and run to the outside of the rim and indicate a loose lug nut."
+            },
+            {
+              "id": 30,
+              "question": "The hub oil seal should be?",
+              "options": [
+                "A. Filled to the proper level.",
+                "B. All bolts tight and secure.",
+                "C. Seal is in good condition and not leaking.",
+                "D. All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "Some hub oil seals will have a plastic or glass area, so you are able to tell that the oil is at the proper level. If there is not an area to view the oil it will still need to be said. It will have several bolts, and they need to be tight and secure. Also, the seal needs to be in good condition and not leaking."
+            },
+            {
+              "id": 31,
+              "question": "Differences between the steer axel and the rest of the axles are: tread depth, spacers or budding rims, space between the tires, torsion bars, and air bags.",
+              "options": ["A. True.", "B. False"],
+              "correctIndex": 0,
+              "explanation": "Steer axels are as simple as an axel can get. They only have one tire on each side, so no spacers, space, or bud rims are required. The tread depth is different from any other axel, and it usually does not have a torsion bar or air bags."
+            },
+            {
+              "id": 32,
+              "question": "You can leave the hood open when moving on with the pre-trip.",
+              "options": ["A. True.", "B. False."],
+              "correctIndex": 1,
+              "explanation": "Open the hood to do the engine compartment, and close it before walking away. You should never leave the engine compartment with the hood open."
+            }
+          ]
+        },
+        {
+          "id": "pretrip-2",
+          "name": "Practice Test 2",
+          "questions": [
+            {
+              "id": 1,
+              "question": "After the engine compartment it is best to move to the driver's side of vehicle, and then head into the cab.",
+              "options": ["True.", "False."],
+              "correctIndex": 0,
+              "explanation": "This is true. It is best to get to the inside cab early. If you do not make it to the inside can you can automatically fail for not doing the CDL air brakes test."
+            },
+            {
+              "id": 2,
+              "question": "At the side of the cab you should not check.",
+              "options": [
+                "Steps into the vehicle.",
+                "Fuel and air tanks.",
+                "Mirrors.",
+                "Lights and reflectors.",
+                "None of these"
+              ],
+              "correctIndex": 4,
+              "explanation": "All these items will all appear on your CDL pre-trip. The correct answer is none of these."
+            },
+            {
+              "id": 3,
+              "question": "The fuel and air tanks are checked for the same items except?",
+              "options": [
+                "The cap.",
+                "No leaks.",
+                "Mounting brackets and bolts.",
+                "Hoses."
+              ],
+              "correctIndex": 0,
+              "explanation": "Both the fuel and air tanks should be checked for proper mount, no leaks, and good hoses. Only the fuel tank will have a cap so you may fill the tanks."
+            },
+            {
+              "id": 4,
+              "question": "Steps leading into the vehicle should be?",
+              "options": [
+                "Properly mounted.",
+                "Properly mounted and not damaged.",
+                "Properly mounted, not damaged, and all bolts tight and secure.",
+                "Strong enough to support twice your weight."
+              ],
+              "correctIndex": 2,
+              "explanation": "Make sure the steps are properly mounted, no damage, and bolts are present and secure."
+            },
+            {
+              "id": 5,
+              "question": "Handrails should be checked for?",
+              "options": [
+                "Mounted",
+                "Tight and secure",
+                "All bolts in place",
+                "All the above"
+              ],
+              "correctIndex": 3,
+              "explanation": "Handrails will need to be tight and secure, properly mounted, all bolts in place, and no excessive damage."
+            },
+            {
+              "id": 6,
+              "question": "Is it best to check the seat and the seatbelts before sitting down?",
+              "options": ["Yes.", "No."],
+              "correctIndex": 0,
+              "explanation": "We suggest checking the seat and belt for securement and damage before sitting down. You will be in a hurry, and it is best to mention them when you see them."
+            },
+            {
+              "id": 7,
+              "question": "The first thing you should check or do when you sit in the driver's seat is?",
+              "options": [
+                "Start the vehicle.",
+                "Turn on your lights.",
+                "Buckle your seatbelt.",
+                "Check the air horn."
+              ],
+              "correctIndex": 2,
+              "explanation": "As soon as you sit in the driver's seat please buckle your seatbelt. If you move the vehicle at all without your seatbelt fastened it is an automatic fail."
+            },
+            {
+              "id": 8,
+              "question": "Check your mirrors from the inside of the cab for?",
+              "options": [
+                "Mounts.",
+                "Adjusted so that you can see.",
+                "Clean.",
+                "No cracks."
+              ],
+              "correctIndex": 1,
+              "explanation": "If you checked them for mounts, cracks, and clean while outside of the vehicle there is no need to state those again. Adjustment can only be checked from the driver's seat, but if you forgot to mention the mirrors on the outside of the vehicle you can check them now for everything."
+            },
+            {
+              "id": 9,
+              "question": "Items inside the cab you must make function in order to get credit for them are?",
+              "options": [
+                "Windshield wipers.",
+                "Air and city horns.",
+                "Blower motors, temperature control, and diverter.",
+                "Lights.",
+                "All answers are correct."
+              ],
+              "correctIndex": 4,
+              "explanation": "If you just mention the wipers and do not check to make sure they work you will not get credit for them. This is true with all the answers here."
+            },
+            {
+              "id": 10,
+              "question": "The steering wheel should be checked for?",
+              "options": [
+                "No play.",
+                "No play exceeding 2\" or 10 degrees.",
+                "That it turns.",
+                "None of the above."
+              ],
+              "correctIndex": 1,
+              "explanation": "Steering wheels should not have more than 2\" of play or 10 degrees in a 20\" wheel."
+            },
+            {
+              "id": 11,
+              "question": "Before you start the vehicle you should check?",
+              "options": [
+                "The vehicle is in neutral.",
+                "Parking brake is set.",
+                "Seat belt is fastened.",
+                "All the above."
+              ],
+              "correctIndex": 3,
+              "explanation": "Making sure the vehicle is in neutral, parking brake set, and seat belt on is steps to a safe start of the vehicle. You should also apply the clutch if equipped before starting."
+            },
+            {
+              "id": 12,
+              "question": "These are all gauges that will need checked except?",
+              "options": [
+                "Air pressure gauge.",
+                "Oil pressure gauge.",
+                "Voltmeter.",
+                "Water pressure gauge.",
+                "None of these are correct."
+              ],
+              "correctIndex": 3,
+              "explanation": "We do not check the water pressure gauge, instead you should check the water temperature gauge."
+            },
+            {
+              "id": 13,
+              "question": "The air pressure in a commercial vehicle should rise to governor cutout of?",
+              "options": ["120 PSI.", "160 PSI.", "100 PSI.", "150 PSI."],
+              "correctIndex": 0,
+              "explanation": "Air pressure should rise to between 120-140 PSI."
+            },
+            {
+              "id": 14,
+              "question": "Which gauge should be between 12-14, and in the green?",
+              "options": [
+                "Voltmeter.",
+                "Water temperature.",
+                "Air pressure.",
+                "Fuel"
+              ],
+              "correctIndex": 0,
+              "explanation": "The voltmeter should be between 12-14, and in the green to be working properly."
+            },
+            {
+              "id": 15,
+              "question": "What should the water temperature gauge do when you start the vehicle?",
+              "options": [
+                "Nothing.",
+                "Rise immediately.",
+                "Nothing, then rise slowly as the vehicle warms up.",
+                "None of the above."
+              ],
+              "correctIndex": 2,
+              "explanation": "The temperature gauge will more than likely not move until the vehicle starts to warm up."
+            },
+            {
+              "id": 16,
+              "question": "You don't have to make both the air and city horns work to get credit for them.",
+              "options": ["True", "False"],
+              "correctIndex": 1,
+              "explanation": "You need to make both the air and city horns work to get credit for checking them."
+            },
+            {
+              "id": 17,
+              "question": "What interior lights do you need to check?",
+              "options": [
+                "Instrument panel lights.",
+                "Left and right turn indicator lights.",
+                "Hazard indicators lights.",
+                "High beam indicator light.",
+                "All the above."
+              ],
+              "correctIndex": 4,
+              "explanation": "You will need to check and make each light indicator work in order to get credit. While you are checking lights, it might not be a bad idea to check the dome light as well."
+            },
+            {
+              "id": 18,
+              "question": "What items are part of your safety equipment?",
+              "options": [
+                "Fire extinguisher.",
+                "Reflective triangles.",
+                "Road flares.",
+                "First aid kit.",
+                "All of the above."
+              ],
+              "correctIndex": 4,
+              "explanation": "All these items are part of your safety equipment."
+            },
+            {
+              "id": 19,
+              "question": "To test the parking brake you should have the trailer air supply in, trailer hand break released, and the parking brake _____?",
+              "options": ["In", "Out", "Released", "None of these"],
+              "correctIndex": 1,
+              "explanation": "The parking brake will need to be out or engaged to test the parking brake."
+            },
+            {
+              "id": 20,
+              "question": "Testing the parking brake requires you to?",
+              "options": [
+                "Move the vehicle slowly and then apply the parking brake stopping the vehicle.",
+                "Pull against the engaged parking brake with no movement.",
+                "Pull against the engaged parking brake with some movement.",
+                "Move the vehicle quickly and then apply the parking brake stopping the vehicle."
+              ],
+              "correctIndex": 1,
+              "explanation": "The vehicle will need to be stopped with parking brake applied, and the trailer air supply pushed in. Put the vehicle in gear and gently pull against the parking brake with no movement."
+            },
+            {
+              "id": 21,
+              "question": "To test the service brake test you will need to have the trailer air supply valve in, parking brake in, and the hand brake released. How do you test the service brake?",
+              "options": [
+                "Pull against the service brake with no movement.",
+                "Pull against the service brake with a little movement.",
+                "Move quickly and apply the service brake to stop the vehicle.",
+                "Move slowly and apply the service brake to stop the vehicle."
+              ],
+              "correctIndex": 3,
+              "explanation": "Moving slowly, less than 5 MPH, and apply the service brake with steady pressure. The vehicle should come to a smooth and even stop with no pull to one side or the other."
+            },
+            {
+              "id": 22,
+              "question": "The next step is the CDL air brake test. This portion is done with the engine off, but should you have air pressure built up to governor cut of 120-140?",
+              "options": ["Yes.", "No"],
+              "correctIndex": 0,
+              "explanation": "Yes, the pressure should be built up to governor cutoff to ensure you have enough air pressure to complete the CDL air brake test."
+            },
+            {
+              "id": 23,
+              "question": "During the CDL air brakes tests the first step is to check for air leakage?",
+              "options": ["True", "False"],
+              "correctIndex": 0,
+              "explanation": "It is best to check the air leakage rate first or you will have to rebuild pressure after draining tanks to make sure the trailer air supply and parking brake set on their own."
+            },
+            {
+              "id": 24,
+              "question": "To test air leakage the air valves should be?",
+              "options": [
+                "Trailer air supply in, parking brake in, trolley released, and pressure on brake pedal.",
+                "Trailer air supply out, parking brake in, trolley released, and pressure on the brake pedal.",
+                "Trailer air supply in, parking brake out, trolley released, and no pressure on the brake pedal.",
+                "Trailer air supply in, parking brake in, trolley applied, and pressure on the brake pedal."
+              ],
+              "correctIndex": 0,
+              "explanation": "To properly test the air leakage you will need trailer air supply in to supply air to the trailer, parking brake in filling the red line with air, steady pressure applied to the brake pedal filling the blue line with air, and the trolley released so no extra air is supplied to the blue line."
+            },
+            {
+              "id": 25,
+              "question": "Step 1 of the CDL air brake tests makes sure the leak rate of the red and blue line is not unsafe. With the parking brake released and the brake pedal applied the leak rate should be no more than?",
+              "options": [
+                "3 PSI for a vehicle with no trailer, and 3 PSI for a combination vehicle in one minute.",
+                "3 PSI for a vehicle with no trailer, and 4 PSI for a combination vehicle in one minute.",
+                "2 PSI for a vehicle with no trailer, and 3 PSI for a combination vehicle in one minute.",
+                "2 PSI for a vehicle with no trailer, and 2 PSI for the tractor plus 1 PSI for each trailer in a combination vehicle in one minute."
+              ],
+              "correctIndex": 1,
+              "explanation": "The air leak rate should be no more than 2 PSI for the red line, 1 PSI for the blue line. In a non- combination vehicle that is 3. For a combination vehicle you will need to add 1 PSI for the trailer bringing the total to 4."
+            },
+            {
+              "id": 26,
+              "question": "Next you should fan the brakes down to make sure all air brake safety devices are working, but what should you do before starting to fan the brakes?",
+              "options": [
+                "Turn on your lights.",
+                "Make sure the vehicle is in neutral.",
+                "Turn the key on so that the instrument warning lights come on.",
+                "Nothing, start fanning the brakes."
+              ],
+              "correctIndex": 2,
+              "explanation": "You will need to have the key on to accessory or to the position right before you start the vehicle. This needs to be done so that the alarm and light for the low air warning can come on alerting of low air pressure. If the light and alarm does not come on when you are taking your test you may automatically fail."
+            },
+            {
+              "id": 27,
+              "question": "While fanning down the alarm and light indicating low air pressure should come on at?",
+              "options": ["100 PSI", "80 PSI", "60 PSI", "40 PSI"],
+              "correctIndex": 2,
+              "explanation": "The low air pressure warning light and alarm should come on when the air pressure is around 60 PSI."
+            },
+            {
+              "id": 28,
+              "question": "Fanning the brakes down further after the alarm and buzzer come on should result in the parking brake popping out for a single vehicle, and the parking brake and the trailer air supply popping out for a combination vehicle at?",
+              "options": ["20 PSI", "40 PSI", "50 PSI", "10 PSI"],
+              "correctIndex": 1,
+              "explanation": "The parking brake for vehicles with no trailer, and the parking brake and trailer air supply valve for combination vehicles should set or pop out at 40 PSI."
+            },
+            {
+              "id": 29,
+              "question": "Before you leave the inside can you should not check the exterior lights.",
+              "options": ["True.", "False."],
+              "correctIndex": 1,
+              "explanation": "It is best to check the lights before getting out, and it will allow the air pressure to build back up if you safely restart the engine."
+            },
+            {
+              "id": 30,
+              "question": "Exterior lights that need checked are on which side of the vehicle?",
+              "options": [
+                "Front of vehicle, rear of vehicle.",
+                "Front of vehicle, both sides of vehicle, and rear of vehicle.",
+                "Front of vehicle, and both sides.",
+                "Answer B plus rear of tractor in combination vehicles."
+              ],
+              "correctIndex": 3,
+              "explanation": "Lights will need to be checked on the front, both sides, rear of tractor on combination vehicles, and the rear of the vehicle."
+            },
+            {
+              "id": 31,
+              "question": "What lights will you need to check on the exterior?",
+              "options": [
+                "Hazard, headlights, running, and clearance lights.",
+                "Hazard, left turn, right turn, headlights high and low beam, brake, running, and clearance lights.",
+                "Left turn, right turn, headlights high and low beam, running, and clearance lights.",
+                "Hazard, left turn, right turn, running, and headlights high and low beam."
+              ],
+              "correctIndex": 1,
+              "explanation": "You need to check the hazard, left turn, right turn, headlights high and low beam, and the clearance lights. Please remember to check each at the front of the vehicle except brake lights, all but headlights and brake lights on both sides, and all except headlights at the back of the vehicle. If this is a combination vehicle check the rear of the tractor for all except headlights."
+            }
+          ]
+        },
+        {
+          "id": "pretrip-3",
+          "name": "Practice Test 3",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What should you remember to check while exiting the vehicle?",
+              "options": [
+                "Handrails and steps.",
+                "Fuel tanks and air tanks.",
+                "Condition of the exterior cab.",
+                "Both A and B."
+              ],
+              "correctIndex": 3,
+              "explanation": "Best to make sure you check the handrails, steps, fuel tank, and air tanks at this time."
+            },
+            {
+              "id": 2,
+              "question": "Hand rails and steps should be checked for?",
+              "options": [
+                "Security.",
+                "Damage.",
+                "Supports weight.",
+                "All the above"
+              ],
+              "correctIndex": 3,
+              "explanation": "The handrails and step need to be secure, not damaged, and able to support the weight you are applying to them when entering the vehicle."
+            },
+            {
+              "id": 3,
+              "question": "When you check the Fuel tank you can also say you would check the same items on the air tanks. What should these two items be checked for?",
+              "options": [
+                "Securely mounted, and no leaks",
+                "Securely mounted, mounting bands and rubber grommets in good condition, lines between the tanks secure with no damage, and no leaks from the tanks or the lines.",
+                "Securely mounted, mounting bands in good condition, lines between the tanks secure with no damage, and no leaks from the tanks or the lines.",
+                "Securely mounted, mounting bands in good condition, lines between the tanks secure with no damage, and no leaks from the tanks."
+              ],
+              "correctIndex": 1,
+              "explanation": "Please make sure that you point at or touch both tanks to insure you receive credit for them, and they both need checked for security, bands and grommets, the lines between tanks, and leaks."
+            },
+            {
+              "id": 4,
+              "question": "You should mention you would check all light covers and reflectors for damage on the side of the vehicle, both the tractor and the trailer, again to cover the side since you have only checked the front at this time?",
+              "options": ["True", "False"],
+              "correctIndex": 0,
+              "explanation": "This is true, on each side of the vehicle you need to check the light lenses and reflectors, and you should get credit for both the tractor and the trailer if you tell the examiner you would check both at this time. The lenses and reflectors need to be mounted, clean, and not damaged or missing."
+            },
+            {
+              "id": 5,
+              "question": "When checking the air and electrical lines between the tractor and the trailer what should you be checking for?",
+              "options": [
+                "The connections and lines.",
+                "The connection at the tractor, the lines for breaks cracks frays, and the connection to the trailer.",
+                "The connection at the tractor, the lines for breaks cracks frays, the connection to the trailer, and that none of these are leaking.",
+                "The connections and for leaks."
+              ],
+              "correctIndex": 2,
+              "explanation": "Make sure to check the connection at the tractor, the lines for breaks cracks frays, the connection to the trailer, and that none of these are leaking. Group them together at the tractor, between the vehicle, and at the trailer to make this part go quickly."
+            },
+            {
+              "id": 6,
+              "question": "What are a few items you want to check while between the tractor and trailer?",
+              "options": [
+                "Frame, catwalk, exhaust, and driveshaft.",
+                "Frame, catwalk, exhaust, cab mounts, and driveshaft.",
+                "Frame, catwalk, and exhaust.",
+                "Frame, catwalk, exhaust, and cab mounts."
+              ],
+              "correctIndex": 0,
+              "explanation": "Frame needs checked for cracks, bends, illegal welds, that it is secure, and mounting bolts. Catwalk needs to be in good condition with all mounting bolts in place. Exhaust needs to be secure; all pipes and connections need to be secure and free of leaks. The driveshaft needs to be properly mounted, tight sand secure, u-joints in good condition and move freely, and there is no excessive play."
+            },
+            {
+              "id": 7,
+              "question": "The rest of the axels on the vehicle are nearly the same as the front steer axels, with a few differences. What are the differences?",
+              "options": [
+                "Torsion bar, space between the tires or spacers, and air bags.",
+                "Torsion bar, treads, space between the tires or spacers, and air bags.",
+                "Torsion bar, treads, and air bags.",
+                "Tread depth, space between the tires or spacers, and air bags."
+              ],
+              "correctIndex": 1,
+              "explanation": "There are FOUR differences between the steer axel, and the tractor and trailer axels. They are the Torsion bar, the space between the axels so bud rims or spacers, tread depth changes from four thirty seconds to two thirty seconds, and retreads are allowed on every axel but the steer axel, and the air bags portion of the suspension."
+            },
+            {
+              "id": 8,
+              "question": "The apron is the metal plate welded on the bottom of the trailer that gives the 5th wheel a smooth surface for vehicle connection. What should you check the apron for?",
+              "options": [
+                "That it is not bent, damaged, cracked, and that it is securely mounted.",
+                "That it is not bent, and that it is securely mounted.",
+                "That it is not bent, damaged, or cracked.",
+                "That it is not bent, damaged, or cracked, has no illegal welds, and that it is securely mounted."
+              ],
+              "correctIndex": 3,
+              "explanation": "The apron itself should not be bent, cracked, or damaged. It will be welded to the bottom of the trailer, but it should not have welds on the surface that the 5th wheel contacts, and it should be securely mounted."
+            },
+            {
+              "id": 9,
+              "question": "The kingpin is a cylindric piece of metal protruding down from the apron, it has a base which is near the apron, shank or the narrow section of the kingpin where the locking jaws connect, and the head or the part furthest from the apron. What should you check the kingpin for?",
+              "options": [
+                "Not bent or damaged, no cracks, and no illegal welds.",
+                "Securely mounted, no cracks, and no illegal welds.",
+                "Securely mounted, not bent or damaged, no cracks, and no illegal welds.",
+                "Securely mounted, not bent or damaged, and no cracks."
+              ],
+              "correctIndex": 2,
+              "explanation": "The kingpin is part of what holds the tractor and trailer together, it needs to be straight with no damage. You should not have any cracks in the metal, and there should not be any welds on the visible portion of the kingpin."
+            },
+            {
+              "id": 10,
+              "question": "The 5th wheel is mounted on the back of the tractor, it lifts the trailer slightly when it contacts the apron when you are coupling the vehicles, and it houses the locking jaws which wrap around the shank of the kingpin to securely attach the trailer. True or False: The 5th wheel should be greased, no illegal welds, not damaged, and tilt with enough pressure.",
+              "options": ["True", "False"],
+              "correctIndex": 0,
+              "explanation": "This is true. The 5th wheel tilts so that the coupling can withstand unlevel surfaces, it cannot have welds or cracks, and needs to be secure."
+            },
+            {
+              "id": 11,
+              "question": "You should check to make sure that the locking jaws are completely wrapped around the shank of the kingpin during your pre-trip inspection?",
+              "options": ["True", "False"],
+              "correctIndex": 0,
+              "explanation": "This is true. The kingpin needs to be completely extended and around the shank of the kingpin."
+            },
+            {
+              "id": 12,
+              "question": "When coupled there should be a slight gap between the 5th wheel and the apron, meaning you should be able to see light between the two.",
+              "options": ["True", "False"],
+              "correctIndex": 1,
+              "explanation": "To have a properly connected vehicle there can be no gap between the 5th wheel and the apron. If there is a gap you should disconnect the tractor, lower the front of trailer, and recouple the tractor. A gap could mean the locking jaws went around the head of the kingpin instead of the shank. This is dangerous because a large bump may cause the trailer to lift, and the kingpin to slide out of the locking jaws."
+            },
+            {
+              "id": 13,
+              "question": "The 5th wheel has a release arm built into the side of it, it automatically locks the jaws around the kingpin when you connect the vehicles, but it can be pulled out to release the locking jaws for uncoupling. What is the correct position of the release arm when the vehicle is coupled?",
+              "options": [
+                "completely in with the locking mechanism secured.",
+                "completely out with the locking mechanism secured.",
+                "completely in with the locking mechanism released.",
+                "completely out with the locking mechanism released."
+              ],
+              "correctIndex": 0,
+              "explanation": "The release arm needs to be pushed completely in with the locking mechanism secured. You want to make sure this is secure because if it is not the trailer might break free of the locking jaws."
+            },
+            {
+              "id": 14,
+              "question": "Most 5th wheels are adjustable for weight distribution and turn clearance, these are called sliding 5th wheels, they have a release are that needs to be completely in and locked, and a locking mechanism. What locks the 5th wheel in place?",
+              "options": ["Locking jaws", "Springs", "Air", "Locking pins"],
+              "correctIndex": 3,
+              "explanation": "Locking pins extend through holes in the platform to lock the sliding 5th wheel in place."
+            },
+            {
+              "id": 15,
+              "question": "The 5th wheel platform needs to be checked for?",
+              "options": [
+                "Tight and secure, properly mounted, and there are no illegal welds.",
+                "Tight and secure, all the bolts are in place and secure, and there are no illegal welds.",
+                "Tight and secure, properly mounted, all the bolts are in place and secure, not excessively damaged, and there are no illegal welds.",
+                "Tight and secure, properly mounted, and all the bolts are in place and secure."
+              ],
+              "correctIndex": 2,
+              "explanation": "The platform needs to be free of illegal welds, be tight and secure, properly mounted, not damaged, and all bolts need to be in place and secure."
+            },
+            {
+              "id": 16,
+              "question": "At the rear of the tractor there are still a few things to check, what are they?",
+              "options": [
+                "ICC bumper, mud flaps, light lens covers, and reflectors.",
+                "Mud flaps, light lens covers, and reflectors.",
+                "Air lines, ICC bumper, and reflectors.",
+                "Mud flaps, air lines, and ICC bumper."
+              ],
+              "correctIndex": 1,
+              "explanation": "The only things you needed to check at the rear of the tractor are the light lens covers, reflectors, and the mud flaps."
+            }
+          ]
+        }
+      ]
     }
   }
 }
